@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jovycarvalho
-- 👀 I’m interested in Data Science, ML, Big Data ans python code
+- 👀 I’m interested in Fuzzing, Fault Localization, Software Security, Testing, ML, Big Data and python code
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Security and softaware Engeeniering
+- 💞️ I’m looking to collaborate on Software Security (Fuzzing, Fault Localization) and Software Engineering
 - 📫 How to reach me jovycarvalhogmail.com
 
 <!---
